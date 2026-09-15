@@ -1,0 +1,8 @@
+{
+  "name": "Tres Valles · Mantenimiento · Calderas",
+  "short_name": "TV Calderas",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#f7f7f5",
+  "theme_color": "#3b6e91"
+}
